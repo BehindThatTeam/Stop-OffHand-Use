@@ -1,0 +1,6 @@
+{
+  "key.offhandblocker.toggle": "Перемкнути блокування offhand",
+  "category.offhandblocker.keybinds": "Offhand Blocker",
+  "message.offhandblocker.enabled": "§aБлокування offhand увімкнено",
+  "message.offhandblocker.disabled": "§aБлокування offhand вимкнено"
+}

@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "offhandblocker",
+	"version": "1.0.0",
+	"name": "Offhand Blocker",
+	"description": "Блокує використання предметів з другорядної руки (offhand)",
+	"authors": [
+		"Your Name"
+	],
+	"contact": {
+		"homepage": "https://example.com/",
+		"sources": "https://github.com/yourusername/offhandblocker"
+	},
+	"license": "MIT",
+	"icon": "assets/stop-offhand-usage/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"ua.behindthatteam.OffhandBlockerClient"
+		]
+	},
+	"mixins": [
+		"stop-offhand-usage.client.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.6",
+		"fabric-api": "*",
+		"minecraft": "1.21.4",
+		"java": ">=17"
+	}
+}
+

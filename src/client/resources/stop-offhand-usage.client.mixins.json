@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "ua.behindthatteam.mixin.client",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [],
+	"client": [
+		"OffhandBlockerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

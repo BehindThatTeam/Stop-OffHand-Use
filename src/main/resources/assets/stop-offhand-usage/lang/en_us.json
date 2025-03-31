@@ -1,0 +1,6 @@
+{
+  "key.offhandblocker.toggle": "Toggle Offhand Blocking",
+  "category.offhandblocker.keybinds": "Offhand Blocker",
+  "message.offhandblocker.enabled": "§aOffhand blocking enabled",
+  "message.offhandblocker.disabled": "§aOffhand blocking disabled"
+}
